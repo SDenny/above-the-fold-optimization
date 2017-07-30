@@ -80,7 +80,7 @@
 								Google officially announced in 2014 that SSL secured websites are ranked higher in the search results and in some countries Google is labeling non-https websites as <code>insecure</code> in the search results, discouraging a visit. In the beginning of 2017 the Google Chrome browser will start showing an insecure warning for non SSL websites (<a href="https://security.googleblog.com/2016/09/moving-towards-more-secure-web.html?<?php print $utmstring; ?>" target="_blank">Google blog</a>).
 							</div>
 
-							<p>Register your website for free at <a href="https://certificatemonitor.org/?<?php print $utmstring; ?>" target="_blank">CertificateMonitor.org</a> to receive a notification when a SSL certificate is about the expire. <a href="https://encrypted.google.com/search?hl=<?php print $lgcode;?>&amp;q=<?php print urlencode('ssl certificate monitor '.date('Y').''); ?>" target="_blank">Search Google</a> fot other premium SSL monitoring services.</p>
+							<p>Register your website for free at <a href="https://certificatemonitor.org/?<?php print $utmstring; ?>" target="_blank">CertificateMonitor.org</a> to receive a notification when a SSL certificate is about the expire. <a href="https://encrypted.google.com/search?hl=<?php print $lgcode;?>&amp;q=<?php print urlencode('ssl certificate monitor '.date('Y').''); ?>" target="_blank">Search Google</a> for other premium SSL monitoring services.</p>
 
 							<h1>Professional &amp; advanced website monitoring</h1>
 
